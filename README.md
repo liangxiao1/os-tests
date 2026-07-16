@@ -1,5 +1,8 @@
 # os-tests
 
+# New location is https://gitlab.com/redhat/virt-cloud/os-tests.
+# Previous master was removed from https://github.com/virt-s1/os-tests.
+
 ## Introduction
 
 os-tests is a lightweight, portable and customer focused test collection for Linux OS.
